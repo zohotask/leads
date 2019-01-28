@@ -88,5 +88,5 @@
  <p> <b>Response:</b>success message</p>
   
   <h4 >Note:</h4> 
-  <p>Sql file for database is upload please find it. Use redirect-uri as "https:zetoe.000webhostapp.com/zoho.index.html"</p>
+  <p>Sql file for database is upload please find it. Use redirect-uri as https://zetoe.000webhostapp.com/zoho/index.html</p>
 
