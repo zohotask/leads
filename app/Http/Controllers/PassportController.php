@@ -49,7 +49,7 @@ class PassportController extends Controller
  
         return response()->json([//'token' => $token, 
             'Zoho Response' => $res,
-            'sent data' => $request->all(),
+            'status' => 200,
             'token' => $token
             ], 200);
     }
